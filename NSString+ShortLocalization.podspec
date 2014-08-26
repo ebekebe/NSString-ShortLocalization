@@ -6,7 +6,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = "NSString+ShortLocalization"
-  s.version          = "1.0.0"
+  s.version          = "0.0.1"
   s.summary          = "Localize NSString by appending .l to your string, e.g. @\"Your string to localize\".l ."
   s.description      = <<-DESC
                        This is for people who think writing *NSLocalizedString(@"Your String", nil)* is already to much code to localize a string.
